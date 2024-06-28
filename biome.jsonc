@@ -1,7 +1,7 @@
 {
 	"files": {
 		"ignore": [
-			"dist/**"
+			"dist/**", "tsconfig.json"
 		]
 	},
 	"$schema": "https://biomejs.dev/schemas/1.8.2/schema.json",
